@@ -1,0 +1,12 @@
+Your system information
+System information from steam (Steam -> Help -> System Information) in a gist:
+https://gist.github.com/lilfricker111/1fe84f171c7bdf1d912f7a6fd8239fc7
+Have you checked for system updates?: Yes
+Please describe your issue in as much detail as possible: 
+Hi, I've been playing csgo for awhile now and I've never experienced an issue like this. Every time I try to load up cache, dust 2, or nuke in a offline or online game the game suddenly black screen and crashes before I can load in. I've fully updated drivers and my windows. I DO NOT have a potato pc so that is not the issue. I have verified integrity of game files at least 20 times. I tried deleting every map in my map file then redownloading them and that did not work. I uninstalled csgo in it's entirety and redownloaded and that did NOT work. I can join any custom map and every other map in the competitive map pool without issue. It's just these three maps. I'm extremely confused as to why this is happening and have been looking for a solution for a week now. Any help will be appreciated.
+crash logs : https://gist.github.com/lilfricker111/878b206fc60302f57bfd5310bbb0f15c
+
+Describe what you expected should happen and what did happen. Please link any large pastes as a Github Gist.
+I expected the maps to load normally and if they didn't I expected verify game files would fix the issue, which it didn't. 
+Steps for reproducing this issue:
+Unknown 
